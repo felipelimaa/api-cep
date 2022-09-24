@@ -1,0 +1,4 @@
+spring:
+  jackson.property-naming-strategy: SNAKE_CASE
+
+viacep.api.url: "https://viacep.com.br/ws"
